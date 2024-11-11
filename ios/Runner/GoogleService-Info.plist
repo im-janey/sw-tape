@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>293401243027-h52ehr415igfrmo70v95c0dt2o0r4tnj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.293401243027-h52ehr415igfrmo70v95c0dt2o0r4tnj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_f3nafCK_5vqGie7m_uw9q20DcFMFZqg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>293401243027</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.Tape12</string>
+	<key>PROJECT_ID</key>
+	<string>tape-de0ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tape-de0ed.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:293401243027:ios:5c509193ae60a268c58c66</string>
+</dict>
+</plist>
